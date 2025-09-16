@@ -1,0 +1,5 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+pdfminer.six==20231228
+tldextract==5.1.2
+pandas==2.2.3
